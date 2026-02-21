@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/capi/events", "destination": "/api/capi" }
+  ]
+}
