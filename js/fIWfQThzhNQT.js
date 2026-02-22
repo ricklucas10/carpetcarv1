@@ -519,14 +519,14 @@ const dadosCaminhoes = {
   // ✅ TROQUE PELOS SEUS 6 LINKS
   const CHECKOUT = {
     carro: {
-      Preto:  "https://seguro.carpetesnexus.com/r/6UN9715961Y0tAK61ffS",
-      Cinza:  "https://seguro.carpetesnexus.com/r/750q918I613jBeF9y",
-      Bege:   "https://seguro.carpetesnexus.com/r/719L9ioG79u06ypI1",
+      Preto:  "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",
+      Cinza:  "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",
+      Bege:   "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",
     },
     caminhao: {
-      Preto:  "https://seguro.carpetesnexus.com/r/6UN9715961Y0tAK61ffS",
-      Cinza:  "https://seguro.carpetesnexus.com/r/750q918I613jBeF9y",
-      Bege:   "https://seguro.carpetesnexus.com/r/719L9ioG79u06ypI1",
+      Preto:  "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Cinza:  "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Bege:   "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
     }
   };
 
@@ -992,20 +992,20 @@ document.addEventListener("DOMContentLoaded", () => {
   // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
   // TROQUE AQUI: 9 LINKS
   const CHECKOUT = {
-    carro_sem: {
-       Preto: "https://pagamento.oficialcarpetcar.com/checkout?product=4646f6c1-00ac-11f1-b2a5-46da4690ad53",
-      Cinza: "https://pagamento.oficialcarpetcar.com/checkout?product=e0f47b06-00ad-11f1-b2a5-46da4690ad53",
-      Bege:  "https://pagamento.oficialcarpetcar.com/checkout?product=20027774-00ae-11f1-b2a5-46da4690ad53",
+     carro_sem: {
+       Preto: "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",
+      Cinza: "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",
+      Bege:  "https://seguro.carpetcar.com.br/checkout/Z-21CQZ02I6526",v
     },
     carro_com: {
-      Preto: "https://pagamento.oficialcarpetcar.com/checkout?product=a6381fc5-00ae-11f1-b2a5-46da4690ad53",
-      Cinza: "https://pagamento.oficialcarpetcar.com/checkout?product=c2456796-00ae-11f1-b2a5-46da4690ad53",
-      Bege:  "https://pagamento.oficialcarpetcar.com/checkout?product=ee46cda1-00ae-11f1-b2a5-46da4690ad53",
+      Preto: "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Cinza: "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Bege:  "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
     },
     caminhao: {
-      Preto: "https://pagamento.oficialcarpetcar.com/checkout?product=1353df6e-00af-11f1-b2a5-46da4690ad53",
-      Cinza: "https://pagamento.oficialcarpetcar.com/checkout?product=31429f65-00af-11f1-b2a5-46da4690ad53",
-      Bege:  "https://pagamento.oficialcarpetcar.com/checkout?product=4b07d549-00af-11f1-b2a5-46da4690ad53",
+      Preto: "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Cinza: "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
+      Bege:  "https://seguro.carpetcar.com.br/checkout/Z-215HG02RRI26",
     }
   };
   // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
